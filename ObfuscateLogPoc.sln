@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObfuscateLogPoc.Domain", "src\ObfuscateLogPoc.Domain\ObfuscateLogPoc.Domain.csproj", "{B5D7A1E1-E0F0-4417-871F-DFF37447B4FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebObfuscateLog.Api", "src\WebObfuscateLog.Api\WebObfuscateLog.Api.csproj", "{DAE15E27-076E-49F2-8D69-33639A437111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D7A1E1-E0F0-4417-871F-DFF37447B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D7A1E1-E0F0-4417-871F-DFF37447B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D7A1E1-E0F0-4417-871F-DFF37447B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D7A1E1-E0F0-4417-871F-DFF37447B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE15E27-076E-49F2-8D69-33639A437111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE15E27-076E-49F2-8D69-33639A437111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE15E27-076E-49F2-8D69-33639A437111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE15E27-076E-49F2-8D69-33639A437111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
